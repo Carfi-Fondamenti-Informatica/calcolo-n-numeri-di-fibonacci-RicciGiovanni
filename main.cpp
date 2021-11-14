@@ -7,9 +7,10 @@ int main()
     int n,i=1,b=1,a=0,c;
     cin>>n;
     
-    cout<<b<<endl;
+
     if(n>=2)
     {
+        cout<<b<<endl;
         for(i=2;i<=n;i++)
         {
          
